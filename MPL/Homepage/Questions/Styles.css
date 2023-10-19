@@ -1,0 +1,103 @@
+
+@font-face {
+    font-family:'SFpro';
+    src: url(/VIT/SIAM/HTML/MPL/Homepage/font/SFPRODISPLAYREGULAR.OTF);
+}
+
+@font-face {
+    font-family:'SFpro1';
+    src: url(/VIT/SIAM/HTML/MPL/Homepage/font/SFPRODISPLAYBLACKITALIC.OTF);
+}
+
+@font-face {
+    font-family:'SFpro2';
+    src: url(/VIT/SIAM/HTML/MPL/Homepage/font/SFPRODISPLAYBOLD.OTF);
+}
+
+@font-face {
+    font-family:'SFpro3';
+    src: url(/VIT/SIAM/HTML/MPL/Homepage/font/SFPRODISPLAYHEAVYITALIC.OTF);
+}
+
+@font-face {
+    font-family:'SFpro4';
+    src: url(/VIT/SIAM/HTML/MPL/Homepage/font/SFPRODISPLAYLIGHTITALIC.OTF);
+}
+
+@font-face {
+    font-family:'SFpro5';
+    src: url(/VIT/SIAM/HTML/MPL/Homepage/font/SFPRODISPLAYMEDIUM.OTF);
+}
+
+@font-face {
+    font-family:'SFpro6';
+    src: url(/VIT/SIAM/HTML/MPL/Homepage/font/SFPRODISPLAYSEMIBOLDITALIC.OTF);
+}
+
+@font-face {
+    font-family:'SFpro7';
+    src: url(/VIT/SIAM/HTML/MPL/Homepage/font/SFPRODISPLAYTHINITALIC.OTF);
+}
+
+@font-face {
+    font-family:'SFpro8';
+    src: url(/VIT/SIAM/HTML/MPL/Homepage/font/SFPRODISPLAYULTRALIGHTITALIC.OTF);
+}
+
+
+
+.All
+{
+    color:#ecb53c;
+    background-image: url("bg.png");
+}
+
+#q,#q1,#q2,#q3,#q4,#q5,#q6,#q7
+{
+    color:#0a445e;
+    font-family:'SFpro4';
+    font-size: 21px;
+}
+
+body
+{
+    padding:7%;
+    padding-top: 2%;
+}
+
+h1
+{
+    text-align: center;
+    font-family: 'SFpro5';
+}
+
+#test
+{
+    font-weight: 485;
+}
+
+img
+{
+    width:20%;
+}
+
+img:hover
+{
+    opacity:0.7;
+}
+
+.ESpic
+{
+    width:35%;
+}
+
+.list-group-item
+{
+    font-family:'SFpro3';
+    font-size: 21px;
+}
+
+#butt
+{
+    margin:3% 43.1%;
+}

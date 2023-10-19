@@ -1,0 +1,128 @@
+
+@font-face {
+    font-family:'SFpro';
+    src: url(font/SFPRODISPLAYREGULAR.OTF);
+}
+
+@font-face {
+    font-family:'SFpro1';
+    src: url(font/SFPRODISPLAYBLACKITALIC.OTF);
+}
+
+@font-face {
+    font-family:'SFpro2';
+    src: url(font/SFPRODISPLAYBOLD.OTF);
+}
+
+@font-face {
+    font-family:'SFpro3';
+    src: url(font/SFPRODISPLAYHEAVYITALIC.OTF);
+}
+
+@font-face {
+    font-family:'SFpro4';
+    src: url(font/SFPRODISPLAYLIGHTITALIC.OTF);
+}
+
+@font-face {
+    font-family:'SFpro5';
+    src: url(font/SFPRODISPLAYMEDIUM.OTF);
+}
+
+@font-face {
+    font-family:'SFpro6';
+    src: url(font/SFPRODISPLAYSEMIBOLDITALIC.OTF);
+}
+
+@font-face {
+    font-family:'SFpro7';
+    src: url(font/SFPRODISPLAYTHINITALIC.OTF);
+}
+
+@font-face {
+    font-family:'SFpro8';
+    src: url(font/SFPRODISPLAYULTRALIGHTITALIC.OTF);
+}
+
+
+
+body{
+    padding-top: 40px;
+    text-align: center;
+    background-image: url("images/bg.png");
+}
+
+
+
+.card
+{
+    font-size: large;
+    margin-left: 30px;
+}
+
+.card:hover
+{
+    background-color: #dddcdc;
+}
+
+.card-text
+{
+    font-family: 'SFpro';
+}
+
+.special
+{
+    align-items: center;
+    padding-left:15%;
+    margin-right: 0;
+    margin-left: 0;
+}
+
+img
+{
+    width:20%;
+    border-radius: 100%;
+}
+
+.img1
+{
+    height: 500px;
+}
+
+img:hover
+{
+    opacity: 0.5;
+}
+
+.logo:hover
+{
+    opacity:1;
+}
+
+h1{
+    font-family: 'SFpro5'; 
+    font-size: 6rem;
+    color: #fff;
+}
+
+h2{
+    font-family: 'SFpro';
+    padding-right: -10px;
+    font-size: 60px;
+    padding-bottom: 3%;
+}
+
+h5{
+    font-family: 'SFpro2';
+}
+
+.text2{
+    color: #ecb53c;
+    padding-top: 20px;
+}
+
+
+.pop
+{
+    width: 100.1%;
+}
